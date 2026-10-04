@@ -1,0 +1,16 @@
+{
+  "model": "logistic_regression",
+  "accuracy": 0.7575,
+  "f1": 0.8008,
+  "roc_auc": 0.8301,
+  "confusion_matrix": [
+    [
+      108,
+      58
+    ],
+    [
+      39,
+      195
+    ]
+  ]
+}
